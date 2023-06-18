@@ -37,6 +37,3 @@ pl <- ggplot(df,aes(x=CPI,y=HDI,color=Region)) +
   )  +
   
   ggtitle('Corruption and Human Development')
-
-
-print(pl)
