@@ -24,7 +24,7 @@ Variables:
 - Region/Country classifications  
 
 ## 📊 Sample Visualization  
-![CPI vs HDI Scatterplot](https://via.placeholder.com/600x400?text=CPI+vs+HDI+Plot)  
+![CPI vs HDI Scatterplot]([https://via.placeholder.com/600x400?text=CPI+vs+HDI+Plot](https://github.com/RohanAslam/Data-Visualization-Project/blob/main/Economist_Assignment_Data.csv))  
 *Figure: GDP-adjusted relationship between corruption and development (generated with ggplot2)*  
 
 ## 🚀 How to Run  
